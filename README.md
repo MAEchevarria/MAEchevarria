@@ -22,12 +22,3 @@ I'm Michael Echevarria.
 <a href="https://www.linkedin.com/in/maechevarria/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
-### Keep on rolling
-
-<details>
-<summary></summary>
-
-![rolling](https://i.gifer.com/3MAm.gif)
-
-</details>
