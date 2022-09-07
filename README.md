@@ -19,6 +19,6 @@ I'm Michael Echevarria.
 </div>
 
 ## Connect with me on 
-<a href="https://www.linkedin.com/in/maechevarria/">
+<a href="https://www.linkedin.com/in/maechevarria/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
