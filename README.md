@@ -1,7 +1,10 @@
+![Banner](https://github.com/MAEchevarria/MAEchevarria/raw/master/assets/MAE_banner.png)
+
 # Hello, world.
 
 I'm Michael Echevarria, a software developer that is passionate about learning and sharing knowledge. 
 
+Exploring
 
 I am interested in learning more about iot and home automation as a hobbyist.
 
