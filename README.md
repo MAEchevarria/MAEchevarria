@@ -23,8 +23,10 @@ I'm Michael Echevarria.
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<details><summary>Keep on rolling</summary>
+### Keep on rolling
 
-<img src="https://i.gifer.com/3MAm.gif" />
+<details>
+
+![rolling](https://i.gifer.com/3MAm.gif)
 
 </details>
