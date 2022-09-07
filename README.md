@@ -2,13 +2,10 @@
 
 # Hello, world.
 
-I'm Michael Echevarria, a software developer that is passionate about learning and sharing knowledge. 
-
-Exploring
-
-I am interested in learning more about iot and home automation as a hobbyist.
-
-<br>
+I'm Michael Echevarria.
+- Passionate about learning and sharing knowledge. 
+- Looking to collaborate on open source projects.
+- Interested in learning more about iot and home automation as a hobbyist.
 
 ## Skills
 <div>
@@ -19,12 +16,15 @@ I am interested in learning more about iot and home automation as a hobbyist.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50px" width="50px" title="Bootstrap"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50px" width="50px" title="HTML"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50px" width="50px" title="CSS"/>
-
 </div>
 
-<br>
-
 ## Connect with me on 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/maechevarria/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
+<details><summary>Keep on rolling</summary>
+
+<img src="https://i.gifer.com/3MAm.gif" />
+
+</details>
