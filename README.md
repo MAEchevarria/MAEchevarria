@@ -26,6 +26,7 @@ I'm Michael Echevarria.
 ### Keep on rolling
 
 <details>
+<summary></summary>
 
 ![rolling](https://i.gifer.com/3MAm.gif)
 
